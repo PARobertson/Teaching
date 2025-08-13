@@ -17,11 +17,14 @@ To get started, follow the steps below:
 3. ## Download and Run ## 
 
     Download Boltzmann_Simulator.py from this repository
-    Open terminal/command prompt, navigate to the folder you downloaded to and run: python Boltzmann_Simulator.py
+    Open terminal/command prompt, navigate to the folder you downloaded to and run:
+   ```bash
+   python Boltzmann_Simulator.py
 
-4. ## Troubleshooting ##
+5. ## Troubleshooting ##
 
     Most errors will arise from Python not being installed properly on your computer, or the environment not being configured/activated. 
     Google will solve these problems for you much faster than I can. 
     Best strategy is to copy the last line or two of error message you get when you try to run the program into your search engine of choice.
     Feel free to ask me if you get stuck, of course.    
+
